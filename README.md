@@ -1,7 +1,7 @@
 # Incubation-Management
 
 
-![logo](https://cdn.dribbble.com/users/3281732/screenshots/14636958/media/79a0f9b5ed90fc2634c9b85a6b52b234.jpg?compress=1&resize=1000x500&vertical=top)
+![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstartinup.up.gov.in%2Fincubation%2F&psig=AOvVaw3VBYI0OtwcnzZ5V_1MdzuI&ust=1695720262918000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqGAoTCPiA9rK4xYEDFQAAAAAdAAAAABCNAQ)
   
 
 We are developing a system for managing our incubation center    
