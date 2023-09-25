@@ -1,9 +1,7 @@
 # Incubation-Management
 
 
-<p align="center">
-  <img src="y[our_relative_path_here](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstartinup.up.gov.in%2Fincubation%2F&psig=AOvVaw3VBYI0OtwcnzZ5V_1MdzuI&ust=1695720262918000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqGAoTCPiA9rK4xYEDFQAAAAAdAAAAABCNAQ)https://www.google.com/url?sa=i&url=https%3A%2F%2Fstartinup.up.gov.in%2Fincubation%2F&psig=AOvVaw3VBYI0OtwcnzZ5V_1MdzuI&ust=1695720262918000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqGAoTCPiA9rK4xYEDFQAAAAAdAAAAABCNAQ" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
-</p>
+![logo](https://cdn.dribbble.com/users/3281732/screenshots/14636958/media/79a0f9b5ed90fc2634c9b85a6b52b234.jpg?compress=1&resize=1000x500&vertical=top)
+  
 
 We are developing a system for managing our incubation center    
