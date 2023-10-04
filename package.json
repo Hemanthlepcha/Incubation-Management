@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "daisyui": "^3.1.1",
+    "react-router-dom": "^6.13.0",
+    "react-slick": "^0.29.0",
+    "slick-carousel": "^1.8.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.24",
+    "tailwindcss": "^3.3.2"
+  }
+}

@@ -1,0 +1,99 @@
+.custom-about-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .custom-about-image {
+    width: 100%;
+    height: 70vh; /* Adjust the height value as needed */
+    background-size: cover;
+    background-position: center;
+    transition: opacity 0.5s ease, transform 0.5s ease;
+    opacity: 0;
+    transform: scale(0.9);
+  }
+  
+  
+  .custom-overlay {
+    background: rgba(0, 0, 0, 0.6);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+  }
+  
+  .custom-centered-text {
+    color: white;
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  
+  .custom-about-section {
+    width: 100%;
+    padding: 3rem 0;
+    text-align: center;
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.5s ease, transform 0.5s ease;
+  }
+  
+  .custom-about-heading {
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  
+  .visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  
+  .custom-box-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    
+  }
+  
+  /* Box styles */
+  .custom-box {
+    background-color: #f0f5f9;
+    padding: 2rem;
+    width: 300px;
+    margin-left: 85px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border: none;
+    border-radius: 8px;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  /* Box hover effect */
+  .custom-box:hover {
+    transform: scale(1.05);
+  }
+  
+  .custom-team-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+  }
+  
+  .custom-team-member {
+    width: calc(33.33% - 1rem);
+    max-width: 500px; /* Adjust the maximum width as needed */
+    padding: 1rem;
+    margin: 0.5rem;
+    text-align: center; /* Center align the content */
+  }
+  
+  /* You can customize these styles further as needed. */
+  
